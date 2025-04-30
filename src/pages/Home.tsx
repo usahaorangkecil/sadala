@@ -102,13 +102,17 @@ const Home = () => {
       {/* Map and Health Data */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
         <Card>
-          <CardContent className="p-6">
-            <h2 className="text-xl font-bold mb-4">Peta Sebaran Data Lamongan</h2>
-            <div className="h-[400px]">
-              <Map />
-            </div>
-          </CardContent>
-        </Card>
+  <CardContent className="p-6">
+    <h2 className="text-xl font-bold mb-4">Peta Sebaran Data Lamongan</h2>
+    <div className="h-[400px]">
+      <img
+        src="/images/peta-lamongan.png"
+        alt="Peta Lamongan"
+        className="w-full h-full object-cover rounded-lg shadow"
+      />
+    </div>
+  </CardContent>
+</Card>
         <Card>
           <CardContent className="p-6">
             <h2 className="text-xl font-bold mb-4">Statistik Kesehatan</h2>
