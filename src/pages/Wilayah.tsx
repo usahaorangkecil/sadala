@@ -20,13 +20,15 @@ const Wilayah = () => {
           <CardHeader>
             <CardTitle>Peta Lamongan</CardTitle>
           </CardHeader>
-          <CardContent>
-            <div className="h-[400px]">
+      
+            <CardContent className="p-6">
+        <div className="h-[400px]">
           <img
             src="https://awsimages.detik.net.id/community/media/visual/2021/08/18/tak-ada-lagi-kecamatan-zona-merah-di-lamongan.jpeg"
         alt="Peta Lamongan"
         className="w-full h-full object-cover rounded-lg shadow"
       />
+    </div>
           </CardContent>
         </Card>
         
