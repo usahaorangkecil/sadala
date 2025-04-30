@@ -113,8 +113,17 @@ const Login: React.FC = () => {
           </CardContent>
           <CardFooter className="flex justify-center">
             <p className="text-sm text-gray-600">
-              Akses portal ini khusus untuk pengelola data Kabupaten Lamongan
+              Akses portal ini khusus untuk pengelola data Kabupaten Lamongan</br>
+              SILAHKAN GUNAKAN AKUN DEMO BERIKUT:</br>
+              pemkab@admin.com (untuk mengakses dashboard pemkab)</br>
+            opd@admin.com (untuk mengakses dashboard pemkab)</br>
+             validator@admin.com (untuk mengakses dashboard pemkab)</br>
+              editor@admin.com (untuk mengakses dashboard pemkab)</br>
+              user@admin.com (untuk mengakses dashboard pemkab)</br>
+                paswd: admin123
             </p>
+            
+
           </CardFooter>
         </Card>
       </div>
