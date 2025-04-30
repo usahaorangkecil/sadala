@@ -56,8 +56,6 @@ const Login: React.FC = () => {
             alt="SADALA Logo" 
             className="h-20 mx-auto mb-4" 
           />
-          <h1 className="text-2xl font-bold text-gray-900">SADALA</h1>
-          <p className="text-gray-600">Satu Data Lamongan</p>
         </div>
 
         <Card>
