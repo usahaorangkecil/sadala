@@ -106,7 +106,7 @@ const Home = () => {
         <h2 className="text-xl font-bold mb-4">Peta Sebaran Data Lamongan</h2>
         <div className="h-[400px]">
           <img
-            src="https://siila.lamongankab.go.id/mo/images/map_la_muchad.svg"
+            src="https://awsimages.detik.net.id/community/media/visual/2021/08/18/tak-ada-lagi-kecamatan-zona-merah-di-lamongan.jpeg"
         alt="Peta Lamongan"
         className="w-full h-full object-cover rounded-lg shadow"
       />
