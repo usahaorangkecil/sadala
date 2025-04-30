@@ -102,11 +102,11 @@ const Home = () => {
       {/* Map and Health Data */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
         <Card>
-  <CardContent className="p-6">
-    <h2 className="text-xl font-bold mb-4">Peta Sebaran Data Lamongan</h2>
-    <div className="h-[400px]">
-      <img
-        src="/images/peta-lamongan.png"
+        <CardContent className="p-6">
+        <h2 className="text-xl font-bold mb-4">Peta Sebaran Data Lamongan</h2>
+        <div className="h-[400px]">
+          <img
+            src="https://siila.lamongankab.go.id/mo/images/map_la_muchad.svg"
         alt="Peta Lamongan"
         className="w-full h-full object-cover rounded-lg shadow"
       />
